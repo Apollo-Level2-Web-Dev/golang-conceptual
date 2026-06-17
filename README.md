@@ -1,4 +1,4 @@
-# haddiBanga — Mango Shop REST API
+# haddiBangaAmm — Mango Shop REST API
 
 A Go REST API for a mango shop. Supports user auth (JWT), mango inventory management, and order placement. Uses Echo v5, GORM, and PostgreSQL (Neon).
 
